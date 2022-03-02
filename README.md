@@ -1,4 +1,4 @@
-# sms.py
+# CALL.py
 FB: Báńķ Pàñġ
 
 
@@ -7,7 +7,7 @@ FB: Báńķ Pàñġ
 git clone https://github.com/252499/sms.py
 
 
-cd sms.py/
+cd CALL.py/
 
 
-python 100api.py
+python CALL.py
